@@ -1,0 +1,152 @@
+#hero {
+  background-image: url("./1.png");
+  height: 800px;
+  width: 1300px;
+}
+.one {
+  position: absolute;
+}
+h1 {
+  position: relative;
+  padding-top: 230px;
+  padding-left: 500px;
+  margin: 0;
+  font-size: 62px;
+}
+body {
+  margin: 0;
+}
+span {
+  color: #00bf63;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 63px;
+  padding-top: 25px;
+  padding-left: 500px;
+  color: #00bf63;
+  margin: 0;
+}
+.p2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-left: 500px;
+  color: black;
+  margin: 0;
+  line-height: 1.5;
+}
+h2 {
+  padding-left: 590px;
+  color: #00bf63;
+  padding-top: 50px;
+}
+.two {
+  height: 500px;
+  padding-bottom: 50px;
+}
+hr {
+  border: dotted rgb(231, 231, 231);
+  width: 40px;
+}
+#mu {
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+  padding-left: 510px;
+  padding-top: 29px;
+}
+h3 {
+  padding-left: 590px;
+  color: #00bf63;
+  padding-top: 50px;
+  margin: 0;
+}
+h4 {
+  padding-left: 590px;
+  color: #00bf63;
+  padding-top: 10px;
+  margin: 0;
+}
+#muu {
+  background-image: none;
+  width: 150px;
+  height: 150px;
+  padding-left: 430px;
+  float: left;
+  position: absolute;
+}
+.p3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  padding-top: 25px;
+  padding-left: 600px;
+  color: black;
+  margin: 0;
+  line-height: 1.5;
+  position: relative;
+}
+.three {
+  padding-top: 80px;
+}
+.four {
+  padding-top: 80px;
+}
+.p4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  padding-top: 15px;
+  padding-left: 440px;
+  color: #006b38;
+  margin: 0;
+}
+.h1 {
+  margin: 0;
+}
+.p5 {
+  padding-left: 500px;
+}
+.button1 {
+  margin-left: 580px;
+  margin-top: 30px;
+  background-image: linear-gradient(90deg, green, chartreuse);
+  border: 0;
+  color: white;
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+  font-size: 20px;
+}
+.button1:hover {
+  background-image: linear-gradient(
+    90deg,
+    rgb(139, 182, 139),
+    rgb(139, 182, 139)
+  );
+}
+.five {
+  background-color: #00bf63;
+  width: 830px;
+  height: 120px;
+  margin-top: 60px;
+  padding-left: 470px;
+}
+a {
+  text-decoration: none;
+  color: #246445;
+}
+.a1 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.six {
+  width: 400px;
+  padding-top: 25px;
+}
+.span1 {
+  color: rgb(61, 80, 70);
+  margin-top: 40px;
+  margin-left: 20px;
+  font-size: 12px;
+}
